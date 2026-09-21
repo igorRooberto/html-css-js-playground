@@ -10,6 +10,7 @@ HTML5 — estruturação e organização de páginas web;
 CSS3 — estilização, layouts, Flexbox e Grid;
 JavaScript — lógica de programação e interatividade;
 Desenvolvimento de interfaces — criação e organização de páginas utilizando os fundamentos do Front-End.
+
 🎯 Objetivo
 
 Utilizar o repositório como um espaço de prática e evolução no desenvolvimento Front-End, registrando exercícios e pequenos projetos realizados durante os estudos.

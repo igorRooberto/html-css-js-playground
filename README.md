@@ -1,4 +1,4 @@
-HTML, CSS & JavaScript Playground
+
 
 Repositório criado para reunir projetos e exercícios práticos de desenvolvimento Front-End, com o objetivo de praticar e consolidar os fundamentos de HTML, CSS e JavaScript.
 
